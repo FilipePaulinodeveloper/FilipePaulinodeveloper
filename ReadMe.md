@@ -27,7 +27,7 @@
 ## 🌐 Socials:
 <div align="left">
   <a  href="https://www.instagram.com/filipepaulino_/" target="_blank" rel="external"><img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/instagram-circle.png" target="_blank"></a>
-  <a  href = "filipepaulinodeveloper@hotmail.com" target="_blank" rel="external"><img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/gmail.png" target="_blank" ></a> 
+  <a  href = "mailto:filipepaulinodeveloper@hotmail.com" target="_blank" rel="external"><img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/gmail.png" target="_blank" ></a> 
   <a  href="https://www.linkedin.com/in/filipe-paulino-a18480282/" target="_blank" rel="external" ><img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/linkedin-circle.png" target="_blank"></a>
 </div>
  
