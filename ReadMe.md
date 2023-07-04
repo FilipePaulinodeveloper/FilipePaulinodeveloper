@@ -10,7 +10,7 @@
  </a>
 
 <a href="https://github.com/FilipePaulinodeveloper" style="margin-right: 0px ;">
-    <img align="center" height="150" width = "370" src="https://github-readme-streak-stats.herokuapp.com/?user=FilipePaulinodeveloper&theme=dark&hide_border=true" alt="Filipe Paulinogithub stats"/> 
+    <img align="center" height="150" width = "350" src="https://github-readme-streak-stats.herokuapp.com/?user=FilipePaulinodeveloper&theme=dark&hide_border=true" alt="Filipe Paulinogithub stats"/> 
 </a> 
 
 <a href="https://github.com/FilipePaulinodeveloper">
