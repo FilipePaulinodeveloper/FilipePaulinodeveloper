@@ -5,16 +5,16 @@
 
 # 👨‍💻 Desenvolvedor Fullstack
 <br>
-🧑‍💻Olá Meu nome é Filipe sou desenvolvedor fullstack, tenho experiência em diversas tecnologias.
+🧑‍💻 Olá Meu nome é Filipe sou desenvolvedor fullstack, tenho experiência em diversas tecnologias.
 <br>
 <br>
-💡Gosto de procurar a melhor solução e trazer o melhor codigo para a situação afim de trazer a melhor qualidade do sistema.
+💡 Gosto de procurar a melhor solução e trazer o melhor codigo para a situação afim de trazer a melhor qualidade do sistema.
 <br> 
 <br>
-📖Sempre estou a procura de aprender coisas novas e de melhorar as minhas abilidades.
+📖 Sempre estou a procura de aprender coisas novas e de melhorar as minhas abilidades.
 <br> 
 <br>
-🖧Atualmente, estou disponível para novos projetos.
+🖧 Atualmente, estou disponível para novos projetos.
 <br>
 
 # ⌛ Atualmente Estou:
@@ -46,6 +46,15 @@
 <br>
 <br>
 
+## 🌐 Socials:
+<div align="left">
+  <a  href="https://www.instagram.com/filipepaulino_/" target="_blank" rel="external"><img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/instagram-circle.png" target="_blank"></a>
+  <a  href = "mailto:filipepaulinodeveloper@hotmail.com" target="_blank" rel="external"><img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/gmail.png" target="_blank" ></a> 
+  <a  href="https://www.linkedin.com/in/filipe-paulino-a18480282/" target="_blank" rel="external" ><img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/linkedin-circle.png" target="_blank"></a>
+</div>                                                                            
+<br>
+
+                                                                                        
 # 🧑 Sobre mim:
 🎥 Sou um grande fã de filmes o principalmente os de Star wars e da Marvel
 <br>
@@ -61,13 +70,6 @@
 🏆 Pratico Esportes.
 
 
-<br><br>
-## 🌐 Socials:
-<div align="left">
-  <a  href="https://www.instagram.com/filipepaulino_/" target="_blank" rel="external"><img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/instagram-circle.png" target="_blank"></a>
-  <a  href = "mailto:filipepaulinodeveloper@hotmail.com" target="_blank" rel="external"><img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/gmail.png" target="_blank" ></a> 
-  <a  href="https://www.linkedin.com/in/filipe-paulino-a18480282/" target="_blank" rel="external" ><img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/linkedin-circle.png" target="_blank"></a>
-</div>
  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
