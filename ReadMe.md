@@ -6,10 +6,10 @@
 
 <div align="center">
   <a href="https://github.com/FilipePaulinodeveloper">
-    <img align="left" height="150" width = "300" src="https://github-readme-stats.vercel.app/api?username=FilipePaulinodeveloper&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="Filipe Paulinogithub stats"/>
+    <img align="left" height="150" width = "50%" src="https://github-readme-stats.vercel.app/api?username=FilipePaulinodeveloper&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="Filipe Paulinogithub stats"/>
  </a>  
   <a href="https://github.com/FilipePaulinodeveloper">
-    <img align="right" height="150" width = "300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePaulinodeveloper&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Filipe Paulinogithub stats"/> 
+    <img align="right" height="150" width = "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePaulinodeveloper&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Filipe Paulinogithub stats"/> 
 </a>  
 
 </div>
