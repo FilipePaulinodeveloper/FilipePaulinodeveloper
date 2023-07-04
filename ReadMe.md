@@ -1,3 +1,11 @@
+# 👨‍💻 Desenvolvedor Fullstack 
+🧑‍💻Olá Meu nome é Filipe sou desenvolvedor fullstack, tenho experiência em diversas tecnologias;
+<br>
+💡Gosto de procurar a melhor solução e trazer o melhor codigo para a situação do momento para trazer a melhor qualidade do sistema
+<br> 
+📖Sempre estou a procura de aprender coisas novas e de melhorar as minhas abilidades 
+<br> 
+🖧Atualmente, estou disponível para novos projetos
 
 
 # 💻 Tech Stack:
