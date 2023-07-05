@@ -64,9 +64,6 @@
 🎮 Jogo video game PS4/PC.
 <br> 
 <br>
-➕ Com frequencia estudo matemática.
-<br>
-<br>
 🏆 Pratico Esportes.
 
 
