@@ -11,7 +11,7 @@
 💡 Gosto de procurar a melhor solução e trazer o melhor codigo para a situação afim de trazer a melhor qualidade do sistema.
 <br> 
 <br>
-📖 Sempre estou a procura de aprender coisas novas e de melhorar as minhas abilidades.
+📖 Sempre estou a procura de aprender novas tecnologias e de melhorar as minhas abilidades.
 <br> 
 <br>
 🖧 Atualmente, estou disponível para novos projetos.
