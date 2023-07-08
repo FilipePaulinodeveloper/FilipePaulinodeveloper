@@ -58,9 +58,6 @@
 # 🧑 Sobre mim:
 🎥 Sou um grande fã de filmes o principalmente os de Star wars e da Marvel
 <br>
-<br>
-🌌 Gosto de Pesquisar e estudar matemática, fisica e Astronomia  
-<br> 
 🎮 Jogo video game PS4/PC.
 <br> 
 <br>
