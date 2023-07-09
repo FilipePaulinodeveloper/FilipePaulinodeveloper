@@ -56,7 +56,7 @@
 
                                                                                         
 # 🧑 Sobre mim:
-🎥 Sou um grande fã de filmes o principalmente os de Star wars e da Marvel
+🎥 Sou um grande fã de filmes principalmente os de Star wars e da Marvel
 <br>
 <br> 
 🎮 Jogo video game PS4/PC.
