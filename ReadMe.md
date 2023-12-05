@@ -18,7 +18,6 @@
 <br>
 
 # ⌛ Atualmente Estou:
-<h3> Trabalhando na <a href="https://codifytech.com.br/">Codifytech</a></h3> 
 <h3> Estudando TypeScript </h3>
   
  <br> 
